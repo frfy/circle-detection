@@ -1,0 +1,2 @@
+D:\C plus\circle detection\detection\x64\Debug\onnxruntime.dll
+D:\C plus\circle detection\detection\x64\Debug\onnxruntime_providers_shared.dll
